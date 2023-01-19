@@ -1,0 +1,27 @@
+#inputGroup-sizing-sm {
+  width: 115px;
+}
+
+#primaryBtn {
+  transition: 0.3s;
+  color: white;
+  font-size: small;
+  &:hover {
+    transition: 0.3s;
+    color: #5141e0;
+    background: rgb(255, 255, 245);
+  }
+}
+
+#plus-icon {
+  margin-left: 5px;
+  margin-bottom: 2px;
+}
+
+.delete-btn {
+  color: #fff;
+  &:hover {
+    color: #e55353;
+    background: #fff;
+  }
+}
